@@ -45,31 +45,26 @@ I enjoy building practical systems that solve real problems — from management 
 **PHP, MariaDB, HTML, CSS**
 - Full-stack web app with authentication and CRUD operations  
 - Relational database design for artists, albums, and tracks  
-🔗 [View Repository](#)
 
 ### 📚 Library Management System
 **Java, Swing, OOP**
 - Desktop application using core OOP principles  
 - Book borrowing, returns, and inventory management  
-🔗 [View Repository](#)
 
 ### 🏥 Hospital Management System
 **Python, Tkinter**
 - GUI-based system for managing patients, doctors, and appointments  
 - Includes data visualization for operational analysis  
-🔗 [View Repository](#)
 
 ### 🚒 Fire-Fighting Autonomous Vehicle
 **Arduino, C++**
 - Autonomous vehicle with flame and ultrasonic sensors  
 - Automated fire suppression and Bluetooth manual control  
-🔗 [View Repository](#)
 
 ### 🤖 Machine Vision Educational Website
 **HTML, CSS, Figma**
 - Responsive educational website designed from Figma prototype  
 - Focus on accessibility and clean UI  
-🔗 [View Repository](#)
 
 ---
 
