@@ -66,6 +66,18 @@ GUI-based healthcare management system with analytical insights.
 Autonomous vehicle with flame detection, obstacle avoidance, and Bluetooth control.
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harman745&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harman745&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## 📫 Connect With Me
 
