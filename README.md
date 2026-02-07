@@ -1,82 +1,86 @@
-# Hi, I'm Harman Singh 👋
+<h1 align="center">Hi 👋, I'm Harman Singh</h1>
 
-🎓 BSc (Hons) Computer Science student at Birmingham City University  
-💻 Visiting Demonstrator in Website Design & Development  
-🔧 Former IT Support Technician  
-🚀 Seeking a placement year in software development / technology
-
----
-
-## 👨‍💻 About Me
-I’m a Computer Science student with hands-on experience in **full-stack web development, object-oriented programming, databases, and embedded systems**.  
-Alongside my studies, I support university students as a **Visiting Demonstrator**, helping them build confidence in HTML, CSS, and UI design.
-
-I enjoy building practical systems that solve real problems — from management systems to autonomous hardware projects.
+<p align="center">
+  <a href="https://github.com/Harman745">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full-Stack+Developer;Visiting+Demonstrator;Seeking+2025/26+Placement&font=Fira%20Code&center=true&width=600&height=45&color=00F7FF&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-**Languages**
-- Python, Java, C++, C
-- JavaScript, PHP
+🎓 **BSc (Hons) Computer Science** student at **Birmingham City University**  
+👨‍🏫 **Visiting Demonstrator** in Website Design & Development  
+🔧 Former **IT Support Technician**
 
-**Web Development**
-- HTML, CSS, JavaScript
-- React, Node.js, Flask, PHP
+I build **full-stack applications, software systems, and embedded solutions** with a strong focus on:
+- clean architecture  
+- scalability  
+- real-world problem solving  
 
-**Databases**
-- MySQL, MariaDB, MongoDB
-
-**Tools & Platforms**
-- Git, VS Code, Eclipse, XAMPP
-- Figma, Canva, Bruno API Client
-- Linux, Windows, macOS
-
-**Embedded & Other**
-- Arduino (sensors, motor control)
-- Networking, AI fundamentals, Data Visualization
+Currently seeking a **2025/26 Placement Year** in **Software Development / Technology**.
 
 ---
 
-## 📌 Featured Projects
+### 🛠 Tech Stack
 
-### 🎵 Online Music Database System
-**PHP, MariaDB, HTML, CSS**
-- Full-stack web app with authentication and CRUD operations  
-- Relational database design for artists, albums, and tracks  
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 
-### 📚 Library Management System
-**Java, Swing, OOP**
-- Desktop application using core OOP principles  
-- Book borrowing, returns, and inventory management  
+#### 🌐 Web & Frameworks
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 
-### 🏥 Hospital Management System
-**Python, Tkinter**
-- GUI-based system for managing patients, doctors, and appointments  
-- Includes data visualization for operational analysis  
+#### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
-### 🚒 Fire-Fighting Autonomous Vehicle
-**Arduino, C++**
-- Autonomous vehicle with flame and ultrasonic sensors  
-- Automated fire suppression and Bluetooth manual control  
-
-### 🤖 Machine Vision Educational Website
-**HTML, CSS, Figma**
-- Responsive educational website designed from Figma prototype  
-- Focus on accessibility and clean UI  
-
----
-
-## 🎓 Certifications
-- IBM Enterprise Design Thinking Practitioner  
-- IBM & Cisco AI Fundamentals  
-- Cisco CCNA: Introduction to Networks  
-- Python Essentials, HTML Essentials (Cisco)
+#### ⚙ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
 ---
 
-## 📫 Contact
-- 📧 Email: harman.singh3@mail.bcu.ac.uk
+### 📌 Featured Projects
+
+🚀 **Online Music Database System**  
+`PHP • MariaDB • HTML • CSS`  
+Full-stack application with authentication, relational database design, and CRUD operations.
+
+📚 **Library Management System**  
+`Java • Swing • OOP`  
+Desktop application demonstrating inheritance, encapsulation, and event-driven programming.
+
+🏥 **Hospital Management System**  
+`Python • Tkinter • Data Visualization`  
+GUI-based healthcare system with analytical visual insights.
+
+🚒 **Fire-Fighting Autonomous Vehicle**  
+`Arduino • C++ • Sensors`  
+Autonomous vehicle with flame detection, obstacle avoidance, and Bluetooth control.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harman745&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: **harman.singh3@mail.bcu.ac.uk**
 - 💼 LinkedIn: [linkedin.com/in/harman-singh-22884134b](http://www.linkedin.com/in/harman-singh-22884134b)
 - 🧑‍💻 GitHub: [github.com/Harman745](https://github.com/Harman745)
