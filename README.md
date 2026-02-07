@@ -68,11 +68,10 @@ Autonomous vehicle with flame detection, obstacle avoidance, and Bluetooth contr
 ---
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harman745&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Harman745&theme=github-compact)
+>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Harman745&theme=tokyonight&hide_border=true" />
